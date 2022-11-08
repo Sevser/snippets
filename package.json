@@ -1,0 +1,11 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sevser/snippets.git",
+  "author": "sevser <sevser39@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --fix ./src/**"
+  }
+}
